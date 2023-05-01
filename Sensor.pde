@@ -1,7 +1,7 @@
 class Sensor {
   Car car;
   int rayCount = 10;
-  float rayLength = 150;
+  float rayLength = 250;
   float raySpread = PI/2;
 
   Ray[] rays;
